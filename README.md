@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Michael Hart
+
+I am touching grass and putting all the things I have done in my support career into the wild!
+
+Well...some of it will be private repos of in depth wikis that are company specific.
+
+You can check out my site: www.thrownwolf.com
 
 <!--
 **ThrownWolfCon/ThrownWolfCon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
